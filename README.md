@@ -1,2 +1,2 @@
 # 🦆quackity-desktop-friend🦆
-you will have a desktop friend of quackity's Minecraft skin using python using left click to talk with you, middle click hold to move him, and right click to remove him.
+you will have a desktop friend of quackity's Minecraft skin using python using left click to talk with you, middle click hold to move him, and right click to remove him. you have to press F11 to see the big version of him.
